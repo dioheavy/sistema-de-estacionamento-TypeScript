@@ -1,0 +1,16 @@
+Criar um projeto em TypeScript
+Acessar a pasta do projeto e digitar:
+npx -p typescript tsc --init
+
+Obs. sera criado um arquivo tsconfig.json que contem toda a configuração basica do typescript
+
+Obs. dentro desse arquivo existem varias dependencias, as que interessam estão descomentadas, e caso queira, pode apagar as dependencias que estão comentada sem gerar problemas.
+
+IMPORTANTE: Para testar utilizar a extensão Live Server, que é aquele icone que fica na parte inferior direita escrito 'Go Live'
+
+
+Obs. para compilar um arquivo TypeScript (.ts) deve-se utlizar o seguinte comando:
+npx -p typescript tsc
+
+
+
